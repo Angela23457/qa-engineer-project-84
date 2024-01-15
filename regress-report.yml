@@ -59,6 +59,10 @@ test-cases:
  - summary: |
       Проверка возможности перехода в каталог и продолжать выбирать товар через страницу "Корзина"
    status: pass  
+
+ - summary: |
+    Проверка запросов в DevTools
+  status: fail  
     
 bugreports:
 - summary: |
