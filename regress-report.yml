@@ -22,7 +22,7 @@ test-cases:
 
  - summary: |
       Проверка фильтрации товара по цене
-   status: pass  
+   status: fail 
 
  - summary: |
       Проверка фильтрации товара по отрицательной цене
